@@ -467,5 +467,6 @@ with footer_col2:
     st.caption("Powered by: NOAA | NASA MODIS | IPCC AR6")
 
 with footer_col3:
-    st.caption("Developed by [Your Name]")
+    st.caption("Developed by [Eşref Erçiftçi]")
     st.caption("M. Çelik & A. Birtane")
+
